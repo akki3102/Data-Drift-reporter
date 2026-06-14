@@ -14,13 +14,13 @@ what changed and why it matters.
 
 | Member | Role Number | Responsibility |
 |---|---|---|
-| [Student 1 Name] | [Roll No] |UI + AI Layer — Bootstrap dashboard, Chart.js, frontend pages, narrator.py, LLM prompts |
-| [Student 2 Name] | [Roll No] |Backend — Flask routes, SQLAlchemy models, drift_engine.py, report generation |
-| [Student 3 Name] | [Roll No] | README, test cases, GitHub cleanup, demo video, documentation |
+| YERIKALA REDDY GARI ARCHANA | 23701A3007	 |UI + AI Layer — Bootstrap dashboard, Chart.js, frontend pages, narrator.py, LLM prompts |
+| YAMA AKSHAY KUMAR REDDY| 23701A3102 |Backend — Flask routes, SQLAlchemy models, drift_engine.py, report generation |
+| YERRABAPU SOUKYA | 23701A30C5 | README, test cases, GitHub cleanup, demo video, documentation |
 
 
-**College**: [Your College Name]
-**Team Name**: [Your Team Name]
+**College**: ANNAMACHARYA INSTITUTE OF TECHNOLOGY AND SCIENCES,RAJAMPET
+**Team Name**: Drift Hunters
 
 ---
 
