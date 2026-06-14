@@ -14,10 +14,10 @@ what changed and why it matters.
 
 | Member | Role Number | Responsibility |
 |---|---|---|
-| [Student 1 Name] | [Roll No] | UI — Bootstrap dashboard, Chart.js, frontend pages |
-| [Student 2 Name] | [Roll No] | Backend — Flask routes, SQLAlchemy models, drift_engine.py |
-| [Student 3 Name] | [Roll No] | AI layer — narrator.py, LLM prompts, structured output |
-| [Student 4 Name] | [Roll No] | README, test cases, GitHub cleanup, demo video |
+| [Student 1 Name] | [Roll No] |UI + AI Layer — Bootstrap dashboard, Chart.js, frontend pages, narrator.py, LLM prompts |
+| [Student 2 Name] | [Roll No] |Backend — Flask routes, SQLAlchemy models, drift_engine.py, report generation |
+| [Student 3 Name] | [Roll No] | README, test cases, GitHub cleanup, demo video, documentation |
+
 
 **College**: [Your College Name]
 **Team Name**: [Your Team Name]
