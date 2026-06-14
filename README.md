@@ -19,8 +19,8 @@ what changed and why it matters.
 | YERRABAPU SOUKYA | 23701A30C5 | README, test cases, GitHub cleanup, demo video, documentation |
 
 
-**College**: ANNAMACHARYA INSTITUTE OF TECHNOLOGY AND SCIENCES,RAJAMPET
-**Team Name**: Drift Hunters
+**College**: ANNAMACHARYA INSTITUTE OF TECHNOLOGY AND SCIENCES,RAJAMPET  
+  **Team Name**: Drift Hunters
 
 ---
 
